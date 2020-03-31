@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsible": "Edwin Santos",
+            "description": "Any description for task 1",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Tony Stark",
+            "description": "Any description for task 2",
+            "priority": "Medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Black Widow",
+            "description": "Any description for task 3",
+            "priority": "High"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Thor",
+            "description": "Any description for task 4",
+            "priority": "High"
+        }
+    ]
+}
